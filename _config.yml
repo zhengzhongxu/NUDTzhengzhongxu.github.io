@@ -1,18 +1,18 @@
 # Site settings
 title: 欢迎你
-SEOTitle: 郑中旭的博客 | wsccoder Blog
+SEOTitle: 郑中旭的博客 |zzx Blog
 header-img: img/post-bg-universe.jpg
-email: wsccoder@gmail.com
+email:1195305536@qq.com
 description: "Talk Is Cheap Show Me The Code  "
-keyword: "wsc, wsccoder Blog, 郑中旭的博客, Java, Go, iPhone, mac pro, book"
-url: "http://wsccoder.github.io"          # your host, for absolute URL
+keyword: "zzx, coder Blog, 郑中旭的博客, Java, Go, iPhone, mac pro, book"
+url: "http://zhengzhongxu.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/wsccoder/wsccoder.github.io.git" # you code repository
+github_repo: "https://github.com/zhengzhongxu/zhengzhongxu.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Stay hungry Stay foolish!"
-sidebar-avatar: /img/about-wsc-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/about-zhengzhongxu-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -20,7 +20,7 @@ sidebar-avatar: /img/about-wsc-gentle.jpg      # use absolute URL, seeing it's u
 RSS: false
 # weibo_username:     
 zhihu_username:      
-github_username:    wsccoder
+github_username:    zhengzhongxu
 facebook_username:   
 jianshu_username:    
 #twitter_username:   
@@ -78,7 +78,7 @@ gitalk:
 
 # Google Analytics
 ga_track_id: 'UA-124436101-1'            # Format: UA-xxxxxx-xx
-ga_domain: wsccoder.github.io               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+ga_domain:auto             # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
